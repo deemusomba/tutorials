@@ -1,31 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Train a Mario-playing RL Agent
-================
 
-Authors: `Yuansong Feng <https://github.com/YuansongFeng>`__, `Suraj
-Subramanian <https://github.com/suraj813>`__, `Howard
-Wang <https://github.com/hw26>`__, `Steven
-Guo <https://github.com/GuoYuzhang>`__.
-
-
-This tutorial walks you through the fundamentals of Deep Reinforcement
-Learning. At the end, you will implement an AI-powered Mario (using
-`Double Deep Q-Networks <https://arxiv.org/pdf/1509.06461.pdf>`__) that
-can play the game by itself.
-
-Although no prior knowledge of RL is necessary for this tutorial, you
-can familiarize yourself with these RL
-`concepts <https://spinningup.openai.com/en/latest/spinningup/rl_intro.html>`__,
-and have this handy
-`cheatsheet <https://colab.research.google.com/drive/1eN33dPVtdPViiS1njTW_-r-IYCDTFU7N>`__
-as your companion. The full code is available
-`here <https://github.com/yuansongFeng/MadMario/>`__.
-
-.. figure:: /_static/img/mario.gif
-   :alt: mario
-
-"""
 
 
 ######################################################################
